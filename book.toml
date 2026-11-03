@@ -5,5 +5,5 @@ language = "en"
 src = "src"
 
 [output.html]
-site-url = "/"
+site-url = "/iisd-ela-github-handbook/"
 additional-css = ["theme/custom.css"]
