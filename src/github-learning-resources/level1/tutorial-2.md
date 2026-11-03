@@ -3,7 +3,7 @@
 **1. What is a GitHub repository?**  
 &nbsp;&nbsp;&nbsp;A repository (or "repo") is essentially a project folder on GitHub. It contains your project's files, folders, documentation, and a history of changes over time. Unlike a regular folder on your computer, a GitHub repository keeps track of previous versions of your files, making it easier to see what changed, when, and by whom. **Each project submitted through our automated system gets its own repository on the IISD-ELA GitHub organization, without duplicates.**
 
-**2. Understanding repository files and folders**
+**2. Understanding repository files and folders**  
 &nbsp;&nbsp;&nbsp;When you open a repository, you'll see a list of files and folders belonging to the project. Some common files you'll encounter include:
 
 File/Folder | Purpose |
