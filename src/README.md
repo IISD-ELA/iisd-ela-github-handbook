@@ -12,5 +12,5 @@
 &nbsp;&nbsp;&nbsp;**No prior GitHub experience is required** Start with the basics and explore the tutorials relevant to your needs.
 
 ## Contact
-eladata@iisd-ela.org
+eladata@iisd-ela.org  
 IISD-ELA Data Team
