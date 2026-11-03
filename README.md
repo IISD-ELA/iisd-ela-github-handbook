@@ -24,28 +24,28 @@ The handbook is built using [mdBook](https://rust-lang.github.io/mdBook/), which
 
 ```text
 iisd-ela-github-handbook/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
-├── src/
-│   ├── README.md
-│   ├── SUMMARY.md
-│   ├── why-use-github-at-iisd-ela.md
-│   ├── what-belongs-on-github.md
-│   ├── getting-started.md
-│   ├── github-learning-resources/
-│   │   ├── introduction.md
-│   │   ├── level-1.md
-│   │   ├── level1/
-│   │   ├── level2/
-│   │   └── level3/
-│   ├── appendices/
-│   └── media/
-├── theme/
-│   └── custom.css
-├── book.toml
-├── .gitignore
-└── README.md
+├── .github/                              # GitHub configuration
+│   └── workflows/                        # Automated workflows
+│       └── deploy.yml                    # GitHub Pages deployment
+├── src/                                  # Handbook content
+│   ├── README.md                         # Handbook homepage
+│   ├── SUMMARY.md                        # Navigation and chapter order
+│   ├── why-use-github-at-iisd-ela.md     # Benefits of GitHub
+│   ├── what-belongs-on-github.md         # Project and file guidelines
+│   ├── getting-started.md                # Initial setup instructions
+│   ├── github-learning-resources/        # GitHub tutorials
+│   │   ├── introduction.md               # Learning resources overview
+│   │   ├── level-1.md                    # Level 1 introduction
+│   │   ├── level1/                       # Beginner tutorials
+│   │   ├── level2/                       # Intermediate tutorials
+│   │   └── level3/                       # Advanced tutorials
+│   ├── appendices/                       # Reference materials
+│   └── media/                            # Images and screenshots
+├── theme/                                # Custom website styling
+│   └── custom.css                        # Custom CSS
+├── book.toml                             # mdBook configuration
+├── .gitignore                            # Git exclusions
+└── README.md                             # Repository documentation
 ```
 
 **Key files and directories:**
