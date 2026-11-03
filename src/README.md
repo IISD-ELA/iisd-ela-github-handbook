@@ -10,3 +10,7 @@
 &nbsp;&nbsp;&nbsp;It covers our GitHub guidelines, how to submit projects through our automated system, and step-by-step tutorials ranging from basic GitHub features to more advanced workflows.
 
 &nbsp;&nbsp;&nbsp;**No prior GitHub experience is required** Start with the basics and explore the tutorials relevant to your needs.
+
+## Contact
+eladata@iisd-ela.org
+IISD-ELA Data Team
