@@ -1,3 +1,37 @@
-book/
-book/
-book/
+# mdBook generated output
+/book/
+
+# Rust build artifacts (if applicable)
+/target/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache (if using helper scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# IDE and editor-specific settings
+.vscode/
+.idea/
+
+# Logs
+*.log
