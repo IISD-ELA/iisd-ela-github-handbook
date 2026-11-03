@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <img src="media/iisd-ela-logo.png" style="width: 200px;">
-    <img src="media/github-logo.png" style="width: 290px;">
+    <img src="/iisd-ela-github-handbook/media/iisd-ela-logo.png" style="width: 200px;">
+    <img src="/iisd-ela-github-handbook/media/github-logo.png" style="width: 290px;">
 </div>
 
 # Welcome to the IISD-ELA GitHub Handbook!
