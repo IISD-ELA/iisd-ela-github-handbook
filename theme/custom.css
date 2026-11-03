@@ -1,0 +1,47 @@
+/* Widen the main reading area */
+:root {
+    --content-max-width: 1000px;
+}
+
+/* Keep images within the reading area */
+.content img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Load Campton Book */
+@font-face {
+    font-family: "Campton";
+    src: url("Campton-Book.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Apply Campton throughout the book */
+html,
+body,
+.content,
+.sidebar {
+    font-family: "Campton", sans-serif;
+}
+
+/* Chapter titles and section headings */
+html.light {
+    --heading-color: #083266;
+}
+
+/* Apply blue to headings and their internal links */
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6,
+.content h1 a,
+.content h2 a,
+.content h3 a,
+.content h4 a,
+.content h5 a,
+.content h6 a {
+    color: #083266 !important;
+}

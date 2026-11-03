@@ -1,0 +1,9 @@
+[book]
+title = "IISD-ELA GitHub Handbook"
+authors = ["IISD-ELA"]
+language = "en"
+src = "src"
+
+[output.html]
+site-url = "/"
+additional-css = ["theme/custom.css"]
