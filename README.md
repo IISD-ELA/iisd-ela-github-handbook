@@ -30,12 +30,15 @@ iisd-ela-github-handbook/
 ├── src/
 │   ├── README.md
 │   ├── SUMMARY.md
-│   ├── why-github.md
-│   ├── what-belongs.md
+│   ├── why-use-github-at-iisd-ela.md
+│   ├── what-belongs-on-github.md
 │   ├── getting-started.md
 │   ├── github-learning-resources/
+│   │   ├── introduction.md
+│   │   ├── level-1.md
 │   │   ├── level1/
-│   │   └── level2/
+│   │   ├── level2/
+│   │   └── level3/
 │   ├── appendices/
 │   └── media/
 ├── theme/
