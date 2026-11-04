@@ -19,6 +19,7 @@
     - [Level 2 - Tutorial 1 - Introduction to git and local development](github-learning-resources/level2/tutorial-1.md) 
     - [Level 2 - Tutorial 2 - Setting up your local environment](github-learning-resources/level2/tutorial-2.md) 
     - [Level 2 - Tutorial 3 - Cloning your GitHub repository](github-learning-resources/level2/tutorial-3.md) 
+    - [Level 2 - Tutorial 4 - Making changes and committing locally](github-learning-resources/level2/tutorial-4.md) 
 - [Appendices](appendices/introduction.md)  
   - [IISD-ELA Repository Creation Guidelines](appendices/appendix-1-repo-creation.md)  
   - [IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md)  
