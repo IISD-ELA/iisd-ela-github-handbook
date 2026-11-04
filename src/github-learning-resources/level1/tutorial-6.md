@@ -11,7 +11,7 @@
 3. Review the teams and individuals who currently have access.
 4. Use **Add teams** or **Add people** to grant access, or modify existing permissions.
 
-&nbsp;&nbsp;&nbsp;For a list of all IISD-ELA GitHub teams and who they are, see [Appendix 3 - Teams section](../../appendices/appendix-3-teams.md).
+&nbsp;&nbsp;&nbsp;For a list of all IISD-ELA GitHub teams and who they are, see [Appendix 5 - Teams section](../../appendices/appendix-5-teams.md).
 
 <kbd>
     <img src="../../media/level1-tutorial6-1.png">

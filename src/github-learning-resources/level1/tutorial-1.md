@@ -20,7 +20,7 @@ in the search bar. Or, to search by multiple tags, you can type:
 
 `topic:chemistry topic:analysis`
 
-&nbsp;&nbsp;&nbsp;*For a comprehensive list of all our topic tags, see [Appendix section 1](../../appendices/appendix-1-topic-tags.md).*
+&nbsp;&nbsp;&nbsp;*For a comprehensive list of all our topic tags, see [Appendix 4 - Topic Tags](../../appendices/appendix-4-topic-tags.md).*
 
 <kbd>
     <img src="../../media/level1-tutorial1-2.png">

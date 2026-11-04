@@ -6,7 +6,7 @@
 **1. Prepare your repository**
 1. Make sure your repository is **public**.  
 2. Ensure your `README.md` clearly describes your project and how to use it.  
-3. Include an appropriate `LICENSE` file (see [notes on licenses for public repositories](../../appendices/appendix-2-repository-structure.md#notes-on-licenses-for-public-repositories)).
+3. Include an appropriate `LICENSE` file (see [notes on licenses for public repositories](../../appendices/appendix-3-repository-structure.md#notes-on-licenses-for-public-repositories)).
 4. Double-check to ensure your repository contains no sensitive information or files that shouldn't be shared with the public.  
 
 **2. Connect your repository to Zenodo**  
@@ -16,7 +16,7 @@
 4. Click Sync now, if necessary, to refresh the repository list.
 5. Find your IISD-ELA repository and enable its integration.
 
-&nbsp;&nbsp;&nbsp; *Note: Because your repository belongs to the IISD-ELA GitHub organization, organization-owner approval may be required to authorize Zenodo. Contact eladata@iisd-ela.org or me directly at iyaktubay@iisd-ela.prg if you encounter permission issues.*
+&nbsp;&nbsp;&nbsp; *Note: Because your repository belongs to the IISD-ELA GitHub organization, organization-owner approval may be required to authorize Zenodo. Contact eladata@iisd-ela.org or me directly at iyaktubay@iisd-ela.org if you encounter permission issues.*
 
 <kbd>
     <img src="../../media/level1-tutorial7-1.png">
@@ -60,7 +60,7 @@
 &nbsp;&nbsp;&nbsp;You can optionally add the DOI or a DOI badge to your GitHub repository's README.md to make it easier for others to cite your work.
 
 
-&nbsp;&nbsp;&nbsp;*Here is the link to the Zenodo page for the published repository I used in the example below: https://doi.org/10.5281/zenodo.23954631*  
+&nbsp;&nbsp;&nbsp;*Here is the link to the Zenodo page for the published repository I used in the example below: [https://doi.org/10.5281/zenodo.23954631](https://doi.org/10.5281/zenodo.23954631)*  
 
 <kbd>
     <img src="../../media/level1-tutorial7-6.png">
@@ -71,5 +71,5 @@
 </kbd>
 
 **5. Publishing Updated Versions**   
-&nbsp;&nbsp;&nbsp;If you make significant changes to your project later, you can publish another GitHub release (e.g., `v1.1.0`). Zenodo will archive the new release and assign it a new version-specific DOI, while keeping the same concept DOI for the overall project.This allows different scientific publications to cite the exact versions of your work they used.  
+&nbsp;&nbsp;&nbsp;If you make significant changes to your project later, you can publish another GitHub release (e.g., `v1.1.0`). Zenodo will archive the new release and assign it a new version-specific DOI, while keeping the same concept DOI for the overall project. This allows different scientific publications to cite the exact versions of your work they used.  
 &nbsp;&nbsp;&nbsp;For more information, see [GitHub's official guide to generating DOIs with Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).

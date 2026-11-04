@@ -25,6 +25,14 @@ Expand each point to learn more.
 </details>
 
 <details>
+<summary><strong>Your Work Doesn't Need to Be Finished or Perfect</strong></summary>
+
+&nbsp;&nbsp;&nbsp;Your code doesn't need to be complete or ready for others to use before uploading it to GitHub. In fact, GitHub is designed exactly to support ongoing development, allowing you to improve your work while keeping track of changes. If you're concerned about others seeing or using unfinished code, simply **keep your repository private** until it's ready to share with other staff or be made public.
+
+&nbsp;&nbsp;&nbsp;***Example:*** You've started developing an R script for analyzing lake temperature data, but it's still incomplete and needs some cleanup. You can upload it to a private repository now and continue working on it over time, without worrying about others accessing or using it before it's ready.
+</details>
+
+<details>
 <summary><strong>Reduce Duplicated Effort and Encourage Reuse</strong></summary>
 &nbsp;&nbsp;&nbsp;Different teams may encounter similar challenges without knowing that another team has already developed a solution. By making existing work easier to find, GitHub helps us identify resources we can reuse or adapt, saving time and reducing duplication.
 
@@ -53,4 +61,4 @@ Expand each point to learn more.
 </details>
 
 ---
-&nbsp;&nbsp;&nbsp;The bottom line is that GitHub is a way for us to make better use of the knowledge, methods, and resources we already produce. It helps us preserve our work, improve consistency, encourage collaboration, and make it easier for staff and future researchers to benefit from what others have already accomplished.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bottom line is that GitHub is a way for us to make better use of the knowledge, methods, and resources we already produce. **Your work doesn't need to be finished, polished, or publicly shared to belong on GitHub.** Whether you're actively developing a project or preserving completed work, GitHub helps us improve consistency, encourage collaboration, and ensure that staff and future researchers can benefit from what others have accomplished.

@@ -14,7 +14,7 @@
 **2. Keep your files organized**  
 &nbsp;&nbsp;&nbsp;Our automated submission system creates repositories using a standardized folder structure to help keep IISD-ELA projects organized and consistent. Once your project is uploaded by the system, you are free to adapt this structure to suit your project by removing unused folders, adding new folders or subfolders, and reorganizing files as needed.
 
-&nbsp;&nbsp;&nbsp;For a detailed explanation of the ideal folder structure, file organization guidelines, and how to manage files such as .gitignore and .gitkeep, see [Appendix 2: IISD-ELA Repository Structure and File Guideline](../../appendices/appendix-2-repository-structure.md).
+&nbsp;&nbsp;&nbsp;For a detailed explanation of the ideal folder structure, file organization guidelines, and how to manage files such as .gitignore and .gitkeep, see [Appendix 3: IISD-ELA Repository Structure and File Guideline](../../appendices/appendix-3-repository-structure.md).
 
 &nbsp;&nbsp;&nbsp;As you maintain your repository, try to use descriptive filenames and avoid keeping unnecessary duplicate versions of files. Since GitHub tracks changes automatically through commits, you generally don't need multiple files named `protocol_final_v2.md` or `analysis_FINAL_revised.R`.
 
