@@ -15,7 +15,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://youtu.be/OP8Cfj72Bys"
+  src="https://www.youtube.com/embed/OP8Cfj72Bys"
   title="Making Changes and Committing Locally"
   allowfullscreen>
 </iframe>
