@@ -10,4 +10,12 @@
 &nbsp;&nbsp;&nbsp;*Committing changes locally does not automatically upload them to GitHub. You'll learn how to do that in [Level 2 - Tutorial 5](tutorial-5.md).*
 
 ### 2. Making commits in VS Code
-The following video introduces VS Code's Git interface, including reviewing changes, staging files, and creating commits.
+&nbsp;&nbsp;&nbsp;The following video introduces VS Code's Git interface, including reviewing changes, staging files, and creating commits using an IISD-ELA repository as an example.
+
+<iframe
+  width="100%"
+  height="400"
+  src="https://youtu.be/OP8Cfj72Bys"
+  title="Making Changes and Committing Locally"
+  allowfullscreen>
+</iframe>
