@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;IISD-ELA has developed a wealth of knowledge across many research areas over decades, and much of this work is valuable beyond the individual projects or teams that originally developed it. **GitHub provides a centralized organized space where we can preserve, share, discover, and build upon this work within and beyond the organization**. It helps us reduce duplicated effort, establish consistent practices, support collaboration, and ensure valuable resources are accessible for both internal and external researchers, projects, and other staff.
 
 ---
-Expand each point to learn more. 
+Click to expand each of the following. 
 <details>
 <summary><strong>Establish Consistent Scientific Methods and Practices</strong></summary>
 &nbsp;&nbsp;&nbsp;Different teams or researchers may use different approaches to accomplish the same task. By maintaining agreed-upon methods and resources in a central location, we can encourage greater consistency across IISD-ELA.  
@@ -26,7 +26,6 @@ Expand each point to learn more.
 
 <details>
 <summary><strong>Your Work Doesn't Need to Be Finished or Perfect</strong></summary>
-
 &nbsp;&nbsp;&nbsp;Your code doesn't need to be complete or ready for others to use before uploading it to GitHub. In fact, GitHub is designed exactly to support ongoing development, allowing you to improve your work while keeping track of changes. If you're concerned about others seeing or using unfinished code, simply **keep your repository private** until it's ready to share with other staff or be made public.
 
 &nbsp;&nbsp;&nbsp;***Example:*** You've started developing an R script for analyzing lake temperature data, but it's still incomplete and needs some cleanup. You can upload it to a private repository now and continue working on it over time, without worrying about others accessing or using it before it's ready.

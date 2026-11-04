@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;To ensure that our repositories are organized, easy to discover, and consistent, all new repositories should follow the guidelines outlined below. 
 
-&nbsp;&nbsp;&nbsp;***You're strongly encouraged to use our automated GitHub project submission system, which handles all these requirements for you.*** See [Getting started with the IISD-ELA GitHub](../getting-started.md) for submission instructions, or [Appendix 2 - The IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md) for an optional, detailed explanation of how the system works.  
+&nbsp;&nbsp;&nbsp;***You're strongly encouraged to use our automated GitHub project submission system, which handles all these requirements for you.*** See [Getting started with the IISD-ELA GitHub](../getting-started.md) for submission instructions, or [Appendix 2 - The IISD-ELA GitHub Project Submission System](appendix-2-auto-submission-system.md) for an optional, detailed explanation of how the system works.  
 
 &nbsp;&nbsp;&nbsp;If you are already familiar with GitHub and prefer to create repositories manually, please ensure that your repositories meet the following requirements.
 
@@ -26,5 +26,5 @@
 - Any new tag must be added to the topic tables in [Appendix 4 - Topic Tags](appendix-4-topic-tags.md) of this handbook.
 
 
-## 3. Assign Collaborators and/or Teams
+### 3. Assign Collaborators and/or Teams
 &nbsp;&nbsp;&nbsp;The repository creator is responsible for adding individuals or teams who will contribute to or maintain the repository. Collaboration can be assigned by **IISD-ELA GitHub Teams** (recommended) or **individual staff members**. For a list of our GitHub Teams, see the [Appendix 5 - Teams](appendix-5-teams.md).

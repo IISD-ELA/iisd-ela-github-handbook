@@ -28,7 +28,7 @@
 │
 ├── README.md           # this file, required
 ├── .gitignore          # list of files for git to ignore, required
-└── LICENSE             # usage license, required (see more notes below)
+└── LICENSE             # usage license, required only for public repositories (see more notes below)
 
 ```
 

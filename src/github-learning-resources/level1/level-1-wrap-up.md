@@ -8,5 +8,6 @@
 * Maintain an organized and documented repository
 * Edit repository permissions and teams
 * Generate a DOI for your GitHub repository via Zenodo
+* Download a GitHub repository as a `.zip` file.
 
 **You can stop here if these skills meet your needs!**

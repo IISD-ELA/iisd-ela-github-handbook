@@ -7,7 +7,7 @@
 
 ## How does it work?
 
-1. Following [simple instructions](https://docs.google.com/document/d/1eCa5YFolbrqcge32kDppIOliPDPeAORpq9xa0qv4u8g/edit?usp=drive_link), upload your project files to the [designated Google Drive folder](https://drive.google.com/drive/folders/1x922EzeZKErssw4pwZXoaOc-TPY5olu7?usp=drive_link) and complete a copy of the project information form.
+1. Following [simple instructions](https://docs.google.com/document/d/1eCa5YFolbrqcge32kDppIOliPDPeAORpq9xa0qv4u8g/edit?usp=drive_link), upload your project files to the [designated Google Drive folder](https://drive.google.com/drive/folders/1x922EzeZKErssw4pwZXoaOc-TPY5olu7?usp=drive_link) and complete a copy of the project information form. *All staff with a `@iisd-ela.org` email address have been granted access to the designated Google Drive folder. If you do not have access, please contact the IISD-ELA data team at iyaktubay@iisd-ela.org or eladata@iisd-ela.org.*  
 2. Every night, the system will check for new submissions and create repositories under the IISD-ELA GitHub.
 3. The system will create your repository following [our repository guidelines](appendix-1-repo-creation.md) based on the information you submitted in the project form.
 4. Once your repository is ready, you will receive an *email* containing a link to it, along with a link to this handbook for resources in case you choose to continue developing your project.
