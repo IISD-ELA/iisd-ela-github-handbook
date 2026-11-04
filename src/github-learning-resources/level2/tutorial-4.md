@@ -1,4 +1,4 @@
-# Level 2 - Tutorial 4 - Making changes and committing locally
+# Level 2 - Tutorial 4 - Making and pushing commits
 &nbsp;&nbsp;&nbsp;Now that you've cloned your repository, you can edit its files directly on your computer using VS Code, RStudio, or other software. Git allows you to track your changes and save checkpoints (commits) as you work, without needing to upload anything to GitHub yet.
 
 ### 1. Understanding the Git workflow
@@ -7,10 +7,10 @@
 2. **Stage:** Select which changes you want to include in your next commit.
 3. **Commit:** Save those staged changes as a checkpoint in your local repository.  
 
-&nbsp;&nbsp;&nbsp;*Committing changes locally does not automatically upload them to GitHub. You would still need to sync changes to ensure that your changes are uploaded. See below videos for more information.*
+&nbsp;&nbsp;&nbsp;*Committing changes locally does not automatically upload them to GitHub. You would still need to sync changes to ensure that your changes are uploaded. See below videos and the next tutorial, [Level 2 - Tutorial 5 - Pushing and Pulling Changes](tutorial-5.md), for more information on syncing.*
 
-### 2. Making commits in VS Code
-&nbsp;&nbsp;&nbsp;The following video shows how to make and review changes, stage files, create commits, and sync with the remote GitHub repository using an IISD-ELA repository as an example.
+### 2. Making and pushing commits in VS Code
+&nbsp;&nbsp;&nbsp;The following video shows how to make and review changes, stage files, make commits, and sync with the remote GitHub repository using an IISD-ELA repository as an example.
 
 <iframe
   width="100%"
@@ -20,8 +20,8 @@
   allowfullscreen>
 </iframe>
 
-### 3. Making commits in RStudio
-&nbsp;&nbsp;&nbsp;The following video shows how to make and review changes, stage files, create commits, and sync with the remote GitHub repository using an IISD-ELA repository as an example.
+### 3. Making and pushing commits in RStudio
+&nbsp;&nbsp;&nbsp;The following video shows how to make and review changes, stage files, make commits, and sync with the remote GitHub repository using an IISD-ELA repository as an example.
 
 <iframe
   width="100%"
