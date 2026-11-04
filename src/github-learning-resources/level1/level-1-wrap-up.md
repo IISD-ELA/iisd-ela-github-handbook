@@ -7,5 +7,6 @@
 * Create commits, review version history, and restore specific versions of your files
 * Maintain an organized and documented repository
 * Edit repository permissions and teams
+* Generate a DOI for your GitHub repository via Zenodo
 
 **You can stop here if these skills meet your needs!**
