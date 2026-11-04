@@ -4,8 +4,8 @@
 ### 1. Find your repository's URL
 
 1. Open your existing repository on GitHub. You can find its URL in the email you received if you submitted your project through [our submission system](../../appendices/appendix-2-auto-submission-system.md).
-2. Click the green Code button on your repository's main page.
-3. Under HTTPS, click the copy icon to copy the repository URL.
+2. Click the green **Code** button on your repository's main page.
+3. Under **HTTPS**, click the copy icon to copy the repository URL.
 4. Your URL should look something like:
 ```
 https://github.com/IISD-ELA/your-repository-name.git
@@ -41,9 +41,9 @@ https://github.com/IISD-ELA/your-repository-name.git
 #### Option B: RStudio
 &nbsp;&nbsp;&nbsp;You can clone repositories directly through RStudio:
 
-1. Open RStudio and select File > New Project > Version Control > Git.
-2. Paste your repository's HTTPS URL into Repository URL.
-3. Choose where to save the project and click Create Project.
+1. Open RStudio and select **File** > **New Project** > **Version Control** > **Git**.
+2. Paste your repository's HTTPS URL into **Repository URL**.
+3. Choose where to save the project and click **Create Project**.
 4. RStudio will clone the repository and open it as a new project.
 
 <kbd>
@@ -66,8 +66,8 @@ https://github.com/IISD-ELA/your-repository-name.git
 
 &nbsp;&nbsp;&nbsp;Once cloned, you should see your repository's files and folders on your computer. You should also have access to Git's version-control features through your chosen application:
 
-* VS Code: Open the Source Control panel.
-* RStudio: Look for the Git tab in the project pane.
+* VS Code: Open the **Source Control** panel.
+* RStudio: Look for the **Git** tab in the project pane.
 
 &nbsp;&nbsp;&nbsp;If GitHub prompts you to sign in, follow the authentication instructions to authorize access to your repository.
 

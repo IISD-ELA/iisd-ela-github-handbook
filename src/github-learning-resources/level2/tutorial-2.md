@@ -6,7 +6,7 @@
 ### 1. Install Git
 
 &nbsp;&nbsp;&nbsp;Git is the version-control software that tracks changes to your project files.
-1. Visit git-scm.com/downloads.
+1. Visit [git-scm.com/downloads](git-scm.com/downloads).
 2. Download and install Git for your operating system (Windows, macOS, or Linux).
 3. If you're using Windows, the default installation options are generally sufficient.
 
@@ -69,7 +69,7 @@ Below is an example output:
 3. Click the **Source Control icon** in the left sidebar.
 4. If Git is installed correctly, VS Code should automatically detect it.  
 
-&nbsp;&nbsp;&nbsp;When you open a folder containing a Git repository, VS Code will display its tracked changes and provide options to commit, push, and pull.
+&nbsp;&nbsp;&nbsp;When you open a folder containing a Git repository, VS Code will display its tracked changes and provide options to commit, push, and pull. If you're not sure what it means to "open a folder containing a Git repository", don't worry. This will be covered in the next tutorial.
 
 <kbd>
     <img src="../../media/level2-tutorial2-6.png">

@@ -1,6 +1,6 @@
 ## Level 2 - Tutorial 1 - Introduction to git and local development
 
-**1. What's the Difference Between Git and GitHub?**  
+### 1. What's the Difference Between Git and GitHub? 
 
 &nbsp;&nbsp;&nbsp;Although they're closely related, **Git and GitHub are two different things:**
 
@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;You can use Git without GitHub, but using them together allows you to work on your projects locally while keeping them connected to the IISD-ELA GitHub organization.
 
-**2. Local vs. Remote Repositories**
+### 2. Local vs. Remote Repositories
 
 &nbsp;&nbsp;&nbsp;When working with Git, you'll encounter two important terms:
 
