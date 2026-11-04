@@ -1,4 +1,4 @@
-# 2. IISD-ELA Repository Structure and File Guideline
+# IISD-ELA Repository Structure and File Guideline
 
 &nbsp;&nbsp;&nbsp;When you submit your project through our automated submission system, your repository will have the following structure by default, and your files will be uploaded to the appropriate folders. This helps keep IISD-ELA repositories organized and consistent. You are free to adapt this structure as needed by removing folders you don’t use, adding new folders and subfolders relevant to your project, and editing files like ```.gitignore```.
 
