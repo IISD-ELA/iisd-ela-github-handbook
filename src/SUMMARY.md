@@ -26,7 +26,7 @@
   - [Level 3: Collaboration - working with others](github-learning-resources/level-3.md)  
     - [Level 3 - Tutorial 1 - Introduction to collaborating with Git](github-learning-resources/level3/tutorial-1.md)  
     - [Level 3 - Tutorial 2 - Creating and working with branches](github-learning-resources/level3/tutorial-2.md)  
-    - [Level 3 - Tutorial 3 - Creating pull requests](github-learning-resources/level3/tutorial-3.md)  
+ 
 - [Appendices](appendices/introduction.md)  
   - [IISD-ELA Repository Creation Guidelines](appendices/appendix-1-repo-creation.md)  
   - [IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md)  
