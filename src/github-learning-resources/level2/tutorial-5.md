@@ -19,7 +19,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/XQsXb7_Zljc"
+  src="https://www.youtube.com/embed/0O1RxTFOiqE"
   title="Pulling from a remote repo - VS Code"
   allowfullscreen>
 </iframe>
@@ -30,7 +30,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/ByU8yXpBhII"
+  src="https://www.youtube.com/embed/OJFw4VRa3L8"
   title="Pulling from a remote repo - RStudio"
   allowfullscreen>
 </iframe>

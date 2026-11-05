@@ -10,11 +10,10 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/4lnVp8yG5MY"
+  src="https://www.youtube.com/embed/UeDG-fHY4og"
   title="viewing commit history on rstudio and vscode"
   allowfullscreen>
 </iframe>
-
 
 ### 2. Undoing Changes
 &nbsp;&nbsp;&nbsp;Git provides several ways to undo mistakes, depending on whether you've committed your changes.
@@ -27,7 +26,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/t34wr8142nM"
+  src="https://www.youtube.com/embed/PIJfUFUtgoA"
   title="discarding uncommitted changes on rstudio and vscode"
   allowfullscreen>
 </iframe>

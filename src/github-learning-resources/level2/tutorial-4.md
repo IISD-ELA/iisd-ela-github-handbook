@@ -15,10 +15,11 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/OP8Cfj72Bys"
+  src="https://www.youtube.com/embed/rkNWKDHPO-Q"
   title="Making Changes and Committing Locally - VS Code"
   allowfullscreen>
 </iframe>
+
 
 ### 3. Making and pushing commits in RStudio
 &nbsp;&nbsp;&nbsp;The following video shows how to make and review changes, stage files, make commits, and sync with the remote GitHub repository using an IISD-ELA repository as an example.
@@ -26,7 +27,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/ItU5AtWl4dw"
+  src="https://www.youtube.com/embed/9oFgNurffTQ"
   title="Making Changes and Committing Locally - RStudio"
   allowfullscreen>
 </iframe>
@@ -43,7 +44,7 @@
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/embed/gj4Dw8TeXec"
+  src="https://www.youtube.com/embed/UslS7PYA5QQ"
   title="Understanding .gitignore files"
   allowfullscreen>
 </iframe>
