@@ -23,6 +23,8 @@
     - [Level 2 - Tutorial 5 - Pulling changes from GitHub](github-learning-resources/level2/tutorial-5.md)
     - [Level 2 - Tutorial 6 - Viewing history and undoing changes](github-learning-resources/level2/tutorial-6.md)
     - [Level 2 Wrap-up](github-learning-resources/level2/level-2-wrap-up.md)  
+  - [Level 3: Collaboration - working with others](github-learning-resources/level-3.md)  
+    - [Level 3 - Tutorial 1 - Introduction to collaborating with Git](github-learning-resources/level3/tutorial-1.md)  
 - [Appendices](appendices/introduction.md)  
   - [IISD-ELA Repository Creation Guidelines](appendices/appendix-1-repo-creation.md)  
   - [IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md)  
