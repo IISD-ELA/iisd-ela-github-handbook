@@ -38,6 +38,19 @@
 </iframe>
 
 #### Option C: VS Code
+1. Open your local repository in VS Code.
+2. Click the current branch name in the bottom-left status bar.
+3. Select Create new branch.
+4. Enter a descriptive branch name.
+5. VS Code will create the branch and switch to it.  
 
+&nbsp;&nbsp;&nbsp;When you're ready to upload your branch to GitHub, use **Publish Branch** in the Source Control panel.
 
+<iframe
+  width="100%"
+  height="400"
+  src="https://www.youtube.com/embed/p9wykxZQ1Ec"
+  title="Pulling from a remote repo - VS Code"
+  allowfullscreen>
+</iframe>
 
