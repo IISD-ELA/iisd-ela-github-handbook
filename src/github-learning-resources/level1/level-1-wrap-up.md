@@ -1,6 +1,6 @@
-# End of "Level 1 - GitHub Basics"
+# End of "Level 1: GitHub Basics - working in your browser"
 
-&nbsp;&nbsp;&nbsp;After completing "Level 1 - GitHub Basics", you should know how to do the following on the GitHub website:  
+&nbsp;&nbsp;&nbsp;After completing "Level 1 - GitHub Basics - working in your browser", you should know how to do the following on the GitHub website:  
 * Find and navigate IISD-ELA repositories
 * Understand repository files and documentation
 * Edit and upload files directly
@@ -10,4 +10,4 @@
 * Generate a DOI for your GitHub repository via Zenodo
 * Download a GitHub repository as a `.zip` file.
 
-**You can stop here if these skills meet your needs!**
+**You can stop here if these skills meet your needs!** If you want to learn how to use Git to do version control on your projects while working locally (i.e., clone, commit, push, pull, view version history, and undo changes), continue to [Level 2](../level-2.md).
