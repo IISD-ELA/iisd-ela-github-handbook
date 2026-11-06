@@ -29,6 +29,7 @@
     - [Tutorial 3 - Creating pull requests](github-learning-resources/level3/tutorial-3.md)  
     - [Tutorial 4 - Reviewing and merging pull requests](github-learning-resources/level3/tutorial-4.md)  
     - [Tutorial 5 - Resolving merge conflicts](github-learning-resources/level3/tutorial-5.md)  
+    - [Level 3 Wrap-up](github-learning-resources/level3/level-3-wrap-up.md)  
 - [Appendices](appendices/introduction.md)  
   - [IISD-ELA Repository Creation Guidelines](appendices/appendix-1-repo-creation.md)  
   - [IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md)  
