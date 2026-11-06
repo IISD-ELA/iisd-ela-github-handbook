@@ -21,10 +21,10 @@
 <iframe
   width="100%"
   height="400"
-  src=""
+  src="https://www.youtube.com/embed/eUC9OzOYRYk"
   title="Pulling from a remote repo - VS Code"
   allowfullscreen>
-</iframe> **add this video once uploads**
+</iframe> 
 
  ### 3. What Happens After Creating a Pull Request?
 &nbsp;&nbsp;&nbsp;Once you've opened a pull request, collaborators can:
