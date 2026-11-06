@@ -1,7 +1,7 @@
 # Level 2 - Tutorial 2 - Setting up your local environment
 &nbsp;&nbsp;&nbsp;Before you can use Git to manage projects on your computer, you'll need to install Git and configure it to work with your preferred software. We'll cover setup for both RStudio and VS Code, since many IISD-ELA staff already use RStudio for their work with R.
 
-&nbsp;&nbsp;&nbsp;**If you don't already have either application installed, we recommend installing VS Code.** It offers greater flexibility, supports a wide range of programming languages (including R and Python), and provides more extensive tools for development and version control. You only need to follow the setup instructions for whichever application you choose.
+&nbsp;&nbsp;&nbsp;**If you don't already have either application installed, we very strongly recommend installing VS Code.** It offers greater flexibility, supports a wide range of programming languages (including R and Python), and provides more extensive tools for development and version control that RStudio simply does not offer. You only need to follow the setup instructions for whichever application you choose.
 
 ### 1. Install Git
 
