@@ -1,4 +1,4 @@
-# 1. Topic Tags
+# Topic Tags
 &nbsp;&nbsp;&nbsp;Topic tags help categorize repositories across the IISD-ELA GitHub so that staff and external users can easily discover related work. Below are our standardized topic tags, with a link to all repositories tagged with each topic. Each of our repositories have exactly one primary tag, and between one and two secondary topic tags.
 
 **Primary Topic Tags**  
