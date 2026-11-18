@@ -5,5 +5,5 @@
 &nbsp;&nbsp;&nbsp;The [Atlassian cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) provides a quick reference for commonly used Git commands and their purposes. **Learning these commands is entirely optional** and is not required to complete any of the tutorials in this handbook.
 
 <kbd>
-    <img src="../../media/appendix-10.png">
+    <img src="../media/appendix-10.png">
 </kbd>
