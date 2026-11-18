@@ -1,6 +1,6 @@
 # End of "Level 1: GitHub Basics - working in your browser"
 
-&nbsp;&nbsp;&nbsp;After completing "Level 1 - GitHub Basics - working in your browser", you should know how to do the following on the GitHub website:  
+&nbsp;&nbsp;&nbsp;After completing [Level 1 - GitHub Basics - working in your browser](../level-1.md), you should know how to do the following on the GitHub website:  
 * Find and navigate IISD-ELA repositories
 * Understand repository files and documentation
 * Edit and upload files directly

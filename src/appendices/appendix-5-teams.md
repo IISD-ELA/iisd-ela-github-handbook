@@ -1,4 +1,4 @@
-# 3. Teams
+# IISD-ELA GitHub Teams
 
 &nbsp;&nbsp;&nbsp;Teams are used to organize people according to which repositories they need or want access to.
 

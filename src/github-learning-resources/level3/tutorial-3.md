@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;Before creating a pull request, ***make sure you've committed and pushed your changes to your branch on GitHub***.
 
 1. Open your IISD-ELA repository on GitHub.
-2. Navigate to the ***Pull requests***tab and click ***New pull request***.
+2. Navigate to the ***Pull requests*** tab and click ***New pull request***.
 3. Select the branches you want to compare:
     * **Base:** main (the branch you want to merge changes into).
     * **Compare:** Your working branch (e.g., `update-temperature-calculations`).

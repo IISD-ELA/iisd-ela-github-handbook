@@ -1,6 +1,6 @@
 # End of "Level 2: Version Control - working independently"
 
-&nbsp;&nbsp;&nbsp;After completing "Level 2 - Version Control - working independently", you should know how to do the following using Git through RStudio or VS Code:
+&nbsp;&nbsp;&nbsp;After completing [Level 2 - Version Control - working independently](../level-2.md), you should know how to do the following using Git through RStudio or VS Code:
 
 * Install and configure Git on your computer
 * Clone an IISD-ELA GitHub repository to your computer

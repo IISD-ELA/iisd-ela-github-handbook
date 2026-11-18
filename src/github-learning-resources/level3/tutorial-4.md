@@ -48,3 +48,11 @@
 &nbsp;&nbsp;&nbsp;Your local main branch should now include the changes from the merged pull request.
 
 ### 7. Reviewing and merging pull requests - video demo
+
+<iframe
+  width="100%"
+  height="400"
+  src="https://www.youtube.com/embed/OKOkb_yxJTA?si=6_XPv4K0wsLLl4gQ"
+  title="Reviewing and merging pull requests"
+  allowfullscreen>
+</iframe> 

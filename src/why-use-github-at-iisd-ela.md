@@ -26,9 +26,9 @@ Click to expand each of the following.
 
 <details>
 <summary><strong>Your Work Doesn't Need to Be Finished or Perfect</strong></summary>
-&nbsp;&nbsp;&nbsp;Your code doesn't need to be complete or ready for others to use before uploading it to GitHub. In fact, GitHub is designed exactly to support ongoing development, allowing you to improve your work while keeping track of changes. If you're concerned about others seeing or using unfinished code, simply **keep your repository private** until it's ready to share with other staff or be made public.
+&nbsp;&nbsp;&nbsp;Your code doesn't need to be complete or ready for others to use before uploading it to GitHub. In fact, GitHub is designed exactly to support ongoing development, allowing you to improve your work while keeping track of changes. If you're concerned about others seeing or using unfinished code, simply keep your repository private until it's ready to share with other staff or be made public.
 
-&nbsp;&nbsp;&nbsp;***Example:*** You've started developing an R script for analyzing lake temperature data, but it's still incomplete and needs some cleanup. You can upload it to a private repository now and continue working on it over time, without worrying about others accessing or using it before it's ready.
+&nbsp;&nbsp;&nbsp;***Example:** You've started developing an R script for analyzing lake temperature data, but it's still incomplete and needs some cleanup. You can upload it to a private repository now and continue working on it over time, without worrying about others accessing or using it before it's ready.*
 </details>
 
 <details>

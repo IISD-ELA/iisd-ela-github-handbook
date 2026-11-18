@@ -6,7 +6,7 @@
 ### 1. Install Git
 
 &nbsp;&nbsp;&nbsp;Git is the version-control software that tracks changes to your project files.
-1. Visit [git-scm.com/downloads](git-scm.com/downloads).
+1. Visit [git-scm.com/downloads](https://git-scm.com/downloads).
 2. Download and install Git for your operating system (Windows, macOS, or Linux).
 3. If you're using Windows, the default installation options are generally sufficient.
 
@@ -45,7 +45,7 @@ Below is an example output:
 ### 3. Set Up Git in RStudio 
 &nbsp;&nbsp;&nbsp;If you primarily work with R scripts or R projects, you can use Git directly through RStudio.
 
-1. Open RStudio. If you do not have the app installed, install it [here](https://docs.posit.co/ide/user/download.html).
+1. Open RStudio. If you do not have the app installed, install it [here](https://docs.posit.co/ide/user/download.html). You can go with default options from the install wizard.
 2. Navigate to Tools > Global Options > Git/SVN.
 3. Check Enable version control interface for RStudio projects.
 4. Confirm that the Git executable field points to your Git installation.
@@ -64,7 +64,7 @@ Below is an example output:
 ### 4. Set Up Git in VS Code
 &nbsp;&nbsp;&nbsp;VS Code includes built-in Git support, so you generally don't need to install additional extensions.
 
-1. [Download and install](https://code.visualstudio.com/download) Visual Studio Code if you haven't already.
+1. [Download and install](https://code.visualstudio.com/download) Visual Studio Code if you haven't already. You can go with default options from the install wizard.
 2. Open VS Code.
 3. Click the **Source Control icon** in the left sidebar.
 4. If Git is installed correctly, VS Code should automatically detect it.  
@@ -74,3 +74,8 @@ Below is an example output:
 <kbd>
     <img src="../../media/level2-tutorial2-6.png">
 </kbd>
+
+---
+
+### Optional - Working with Windows Subsystem for Linux (WSL)
+&nbsp;&nbsp;&nbsp;Some IISD-ELA staff, particularly those in the data team, use the Windows Subsystem for Linux (WSL) to develop their projects in a Linux environment through VS Code. If your work also requires this setup (unlikely), see [Appendix 6 - Setting up VS Code with WSL](../../appendices/appendix-6-wsl-with-vscode.md).

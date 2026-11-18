@@ -1,8 +1,8 @@
 # Level 1 - Tutorial 4 - Understanding commits and version history
 
-&nbsp;&nbsp;&nbsp;We already covered how to navigate to your repository's commit history in *Level 1 - Tutorial 2 -  Understanding our GitHub Repositories*. This tutorial goes a bit deeper by teaching you *how to view what changed in a commit*, *how to view an earlier version of a file*, and *how to restore your repository to an earlier version*.
+&nbsp;&nbsp;&nbsp;We already covered how to navigate to your repository's commit history in [Level 1 - Tutorial 2 -  Understanding our GitHub Repositories](tutorial-2.md). This tutorial goes a bit deeper by teaching you *how to view what changed in a commit*, *how to view an earlier version of a file*, and *how to restore your repository to an earlier version*.
 
-**1. Viewing what changed in a commit**  
+### 1. Viewing what changed in a commit
 &nbsp;&nbsp;&nbsp;You can examine exactly what was modified in a particular commit.
 1. From the commit history, click a commit message.
 2. Github displays the changes made in that commit.
@@ -19,7 +19,7 @@
     <img src="../../media/level1-tutorial4-2.png">
 </kbd>
 
-**2. Viewing an earlier version of a file**  
+### 2. Viewing an earlier version of a file 
 &nbsp;&nbsp;&nbsp;You can also look at the history of an individual file rather than an entire repository.
 
 1. Open the file you're interested in.
@@ -37,7 +37,7 @@ This lets you compare earlier versions without changing your current files.
     <img src="../../media/level1-tutorial4-4.png">
 </kbd>
 
-**3. Recovering an earlier version**  
+### 3. Recovering an earlier version
 &nbsp;&nbsp;&nbsp;If you've accidentally changed or deleted something, or simply want to undo your changes, you can often recover it using GitHub's version history.
 
 &nbsp;&nbsp;&nbsp;For a simple commit with only one affected file:

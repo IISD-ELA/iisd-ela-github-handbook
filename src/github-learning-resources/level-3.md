@@ -1,6 +1,6 @@
 # Level 3: Collaboration - working with others
 
-**Difficulty:** Advanced (completion of Level 2 recommended)  
+**Difficulty:** Intermediate (completion of Level 1 & Level 2 strongly recommended)  
 **Tools required:** Git, GitHub and a code editor (e.g., RStudio or VS Code)
 
 &nbsp;&nbsp;&nbsp;In [Level 2](level-2.md), you learned how to use Git to independently develop and maintain projects on your computer while keeping them synchronized with GitHub. However, when multiple people are working on the same repository, additional tools and practices can help coordinate changes and avoid conflicts.

@@ -1,6 +1,6 @@
 # End of "Level 3: Collaboration - working with others"
 
-&nbsp;&nbsp;&nbsp;After completing "Level 3 - Collaboration - working with others", you should know how to do the following using Git and GitHub:
+&nbsp;&nbsp;&nbsp;After completing [Level 3: Collaboration - working with others](../level-3.md), you should know how to do the following using Git and GitHub:
 
 * Create and manage branches to work on changes independently of the main project
 * Create pull requests to propose changes to a repository

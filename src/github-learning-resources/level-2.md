@@ -1,5 +1,5 @@
 # Level 2:  Version Control - working independently
-**Difficulty:** Intermediate (no prior Git experience required)  
+**Difficulty:** Beginner (no prior Git experience required; though familiarity with the GitHub website is recommended)  
 **Tools required:** Git, GitHub and a code editor (e.g., RStudio or VS Code)  
 
 &nbsp;&nbsp;&nbsp;In [Level 1](level-1.md), you learned how to manage your IISD-ELA repository and make changes directly through the GitHub website. While this works well for occasional updates, you may prefer to work on your project directly from your computer, especially if you're regularly developing R or Python scripts, running analyses, making data visualizations, or working with multiple files.  
