@@ -38,7 +38,7 @@
   - [IISD-ELA GitHub Project Submission System](appendices/appendix-2-auto-submission-system.md)  
   - [IISD-ELA Repository Structure and File Guideline](appendices/appendix-3-repository-structure.md)  
   - [Topic Tags](appendices/appendix-4-topic-tags.md)
-  - [Teams](appendices/appendix-5-teams.md)  
+  - [IISD-ELA GitHub Teams](appendices/appendix-5-teams.md)  
   - [Setting up Visual Studio Code with WSL (Windows)](appendices/appendix-6-wsl-with-vscode.md)
   - [Software Versioning & Quality Control Process at IISD-ELA](appendices/appendix-7-version-control-practices.md)
   - [Using GitHub Desktop](appendices/appendix-8-github-desktop.md) 
